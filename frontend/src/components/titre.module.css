@@ -1,0 +1,11 @@
+.titreH1{
+    font-family: 'Benne', serif;
+    font-size: 50px;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+    color:whitesmoke;
+
+}
+.titreH1:hover{
+    color:slateblue;
+}
